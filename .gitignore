@@ -1,6 +1,9 @@
 # venv
 .venv
 
+# ssh_conf
+ssh_config
+
 # python cache
 *.pyc
 __pycache__/
